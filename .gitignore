@@ -1,0 +1,12 @@
+# Ignorar entornos virtuales y otros archivos innecesarios
+/anaconda3/
+/env/
+/venv/
+*.pyc
+__pycache__/
+*.ipynb_checkpoints/
+*.log
+*.data/
+*.csv
+*.db
+ncbi_rnaseq_data
