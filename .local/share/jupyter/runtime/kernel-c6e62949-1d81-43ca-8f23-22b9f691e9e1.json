@@ -1,0 +1,13 @@
+{
+  "shell_port": 47697,
+  "iopub_port": 56617,
+  "stdin_port": 39257,
+  "control_port": 39069,
+  "hb_port": 45709,
+  "ip": "127.0.0.1",
+  "key": "fc2a7a00-db8d7b3de08ced7485652de7",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/caheri_salas/Untitled.ipynb"
+}

@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 3860,
+  "port": 8888,
+  "root_dir": "/home/caheri_salas",
+  "secure": false,
+  "sock": "",
+  "token": "c8a3314afead437438d6458a43da62b033a815c71f902a7a",
+  "url": "http://localhost:8888/",
+  "version": "2.14.1"
+}
